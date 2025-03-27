@@ -55,4 +55,10 @@ Este repositório está sob a [MIT License](LICENSE).
 
 ---
 
-> 📬 Entre em contato caso queira saber mais sobre os dashboards ou minha atuação como analista de dados.
+> ## 📬 Contato
+Caso queira conversar sobre os projetos, colaborações ou oportunidades profissionais, sinta-se à vontade para me contatar:
+
+- 💼 LinkedIn: [linkedin.com/in/aquilaporfirio]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/aquilaporfirio/))
+- 📧 E-mail: aquilapas89@gmail.com
+
+
