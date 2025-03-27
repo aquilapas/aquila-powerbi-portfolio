@@ -50,6 +50,14 @@ Este repositório visa apresentar minha capacidade de criar soluções visuais, 
 
 ---
 
+## 🧪 Como Visualizar os Dashboards
+
+1. Baixe o [Power BI Desktop](https://powerbi.microsoft.com/pt-br/desktop/)
+2. Clone este repositório ou baixe os arquivos `.pbix` individualmente
+3. Abra os arquivos diretamente no Power BI Desktop
+
+---
+
 ## 📎 Licença
 Este repositório está sob a [MIT License](LICENSE).
 
