@@ -58,7 +58,7 @@ Este repositório está sob a [MIT License](LICENSE).
 > ## 📬 Contato
 Caso queira conversar sobre os projetos, colaborações ou oportunidades profissionais, sinta-se à vontade para me contatar:
 
-- 💼 LinkedIn: [linkedin.com/in/aquilaporfirio]([https://www.linkedin.com/in/aquilaporfirio/])
+- 💼 LinkedIn: [linkedin.com/in/aquilaporfirio](https://www.linkedin.com/in/aquilaporfirio/)
 - 📧 E-mail: aquilapas89@gmail.com
 
 
